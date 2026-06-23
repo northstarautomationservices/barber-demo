@@ -267,3 +267,6 @@ h2 {
 .service-card {
   cursor: pointer;
 }
+body {
+  background: red !important;
+}
