@@ -1,0 +1,113 @@
+<header class="hero">
+  <nav class="nav">
+    <div class="logo">THE BARBER CLUB</div>
+    <div class="links">
+      <a href="#services">Services</a>
+      <a href="#gallery">Work</a>
+      <a href="#booking">Book</a>
+    </div>
+  </nav>
+
+  <div class="hero-content">
+  <div class="badge">BOOKING SYSTEM FOR BARBERS</div>
+
+  <h1>Run your barbershop bookings online</h1>
+
+  <p>
+    Reduce no-shows, fill empty chairs, and let clients book in seconds.
+  </p>
+
+  <div class="hero-actions">
+    <a href="#booking" class="btn primary">Get Haircut</a>
+    <a href="#services" class="btn ghost">View Services</a>
+  </div>
+</div>
+</header>
+<div class="trust-bar">
+  <div>⭐ 4.9 Rated</div>
+  <div>📍 Cork Based</div>
+  <div>💈 500+ Monthly Cuts</div>
+</div>
+<section class="offer">
+  <h2>Skip the wait. Book in seconds.</h2>
+  <p>Message directly or pick a time slot instantly.</p>
+</section>
+<section id="services">
+  <h2>Services</h2>
+
+  <div class="services-grid">
+
+    <div class="service-card" onclick="location.href='#booking'">
+  <h3>Haircut</h3>
+  <p>Sharp, clean cut tailored to your style.</p>
+  <span>€25</span>
+</div>
+
+    <div class="service-card" onclick="location.href='#booking'">
+      <h3>Skin Fade</h3>
+      <p>Precision fade with clean finish.</p>
+      <span>€20</span>
+    </div>
+
+    <div class="service-card" onclick="location.href='#booking'">
+      <h3>Hair + Beard</h3>
+      <p>Full grooming package with detail.</p>
+      <span>€35</span>
+    </div>
+<div class="service-card" onclick="location.href='#booking'">
+  <h3>Kids Haircut</h3>
+  <p>Clean, comfortable cuts for younger clients.</p>
+  <span>€15</span>
+</div>
+  </div>
+</section>
+
+<section id="gallery" class="section dark">
+  <h2>Our Work</h2>
+
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1640301133543-41fe25ad6450">
+    <img src="https://images.unsplash.com/photo-1654097800183-574ba7368f74">
+    <img src="https://images.unsplash.com/photo-1589985494639-69e60c82cab2">
+    <img src="https://images.unsplash.com/photo-1669568921948-f0346e0ee73e">
+     <img src="https://images.unsplash.com/photo-1545921772-ec7d64bc0bba">
+    <img src="https://images.unsplash.com/photo-1619233543640-af09c173763b">
+  </div>
+</section>
+
+<section id="booking" class="booking">
+
+  <div class="booking-header">
+    <div class="badge">LIVE BOOKING SYSTEM</div>
+    <h2>Manage your appointment</h2>
+    <p>Select how you want to book your next cut</p>
+  </div>
+
+  <div class="booking-grid">
+
+    <div class="booking-card">
+      <h3>Instant Chat Booking</h3>
+      <p>Book directly with the barber on WhatsApp</p>
+      <a class="btn whatsapp"
+   href="https://wa.me/353XXXXXXXXX?text=Hi%20I'd%20like%20to%20book%20an%20appointment">
+  Open WhatsApp
+</a>
+    </div>
+
+    <div class="booking-card">
+      <h3>Schedule a Time Slot</h3>
+      <p>Pick an available time instantly</p>
+      <a class="btn calendly"
+   href="https://calendly.com/your-business-name"
+   target="_blank">
+  Open Calendar
+</a>
+    </div>
+
+  </div>
+
+</section>
+
+<footer>
+  © The Barber Club • Cork
+</footer>
